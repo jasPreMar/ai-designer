@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "openai": "^4.20.1"
+  },
+  "name": "ai-designer",
+  "description": "## Overview The Layout Generator App is a creative tool designed to break the monotony of current internet designs by generating unique and functional web layouts based on user-provided prompts. Utilizing the power of generative AI, this app aims to inspire product designers with new layout ideas and explore the potential of AI in web design.",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasPreMar/ai-designer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasPreMar/ai-designer/issues"
+  },
+  "homepage": "https://github.com/jasPreMar/ai-designer#readme"
+}
